@@ -25,9 +25,9 @@ for a given task.
 kelurahan/autentifikasi
 
 # tampilan user  
-![Frontend](kelurahan/assets/Screenshot 2025-03-12 225125.png)
+(ss/Screenshot 2025-03-12 225125.png)
 
 # tampilan admin
-![Frontend](kelurahan/assets/Screenshot 2025-03-12 225140.png)
+(ss/Screenshot 2025-03-12 225140.png)
 
 
