@@ -21,8 +21,13 @@ for a given task.
 - Membuat Login/Daftar user ✔
 - Membuat CRUD user ✔
 - Finish ✔
-  # cara mengakses halaman admin
-  kelurahan/autentifikasi
-  
+# cara mengakses halaman admin
+kelurahan/autentifikasi
+
+# tampilan user  
+(assets/Screenshot 2025-03-12 225125.png)
+
+# tampilan admin
+(assets/Screenshot 2025-03-12 225140.png)
 
 
