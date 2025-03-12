@@ -21,6 +21,8 @@ for a given task.
 - Membuat Login/Daftar user ✔
 - Membuat CRUD user ✔
 - Finish ✔
+  # cara mengakses halaman admin
+  kelurahan/autentifikasi
   
 
 
