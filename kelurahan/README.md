@@ -8,26 +8,19 @@ interface and logical structure to access these libraries. CodeIgniter lets
 you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
-# Tugas
 
-- Membuat Form Matakuliah ✔
-- Membuat Template Sederhana ✔
-
-# Website Pustaka Booking
+# Website surat menyurat kelurahan
 
 - Membuat Database ✔
-- Membuat Admin Dashboard ✔
-- Membuat Login/Daftar Admin ✔
+- Membuat Admin kelurahan ✔
+- Membuat Login Admin ✔
+- Membuat CRUD Admin ✔
 - Menghubungkan Admin Dashboard dengan Database ✔
 - Menerapkan Admin Dashboard ✔
 - Membuat Fontend ✔
 - Membuat Login/Daftar user ✔
+- Membuat CRUD user ✔
 - Finish ✔
+  
 
-# Frontend
 
-![Frontend](ss/Frondend.png)
-
-# Backend
-
-![Backend](ss/Backend.png)
